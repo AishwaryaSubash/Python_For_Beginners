@@ -4,6 +4,16 @@ This repository contains the **Python learning materials** and **worksheets** us
 
 <br />
 
+## 🌍 Who Can Use This?  
+
+While this repository was initially designed for young beginners, it is **PERFECT FOR ANYONE** who wants to start their Python journey. 
+
+If you're new to programming, this structured course will guide you through the **fundamentals of Python** with **hands-on exercises and projects**.  
+
+Whether you're a **student**, an **educator**, or just someone curious about Python, this repo will make you fall in ❤️ with coding!
+
+<br />
+
 ## 📌 About the Course  
 
 - **Designed for**: School kids (beginners)  
